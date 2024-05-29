@@ -1,2 +1,1 @@
-# vehicle_fuel_economy_eda
-Vehicle Fuel Economy Exploratory Data Analysis (EDA)
+# Vehicle Fuel Economy Exploratory Data Analysis (EDA)
